@@ -1,0 +1,12 @@
+alias gs='git status'
+alias pull='git pull'
+alias push='git push'
+alias rf='rm -rf'
+alias mk="mkdir"
+alias add="git add ."
+alias fetch="git fetch"
+alias rebase="git rebase"
+alias commit="git commit -m"
+alias gr="git restore ."
+alias diff="git diff"
+alias login="wtc-lms login"
